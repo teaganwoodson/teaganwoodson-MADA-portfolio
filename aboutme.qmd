@@ -2,6 +2,24 @@
 title: "About me"
 ---
 
-Add some text and a figure describing myself.
+## Hello! I'm Teagan Woodson.
 
-For details, see the exercise instructions. 
+![](images/IMG_7961.JPG)
+
+## Education
+
+I am a second year MPH Student and my concentration is in Biostatistics. I was in the Double Dawgs program at UGA, and graduated in May with my B.S. in Statistics. In my undergraduate coursework we mostly used R-programming, but I am also familiar with SAS, SQL, and Python. I am excited to learn how to use GitHub, because it seems very useful and organized.
+
+## Work
+
+For the past 3 years I have worked at Carl Vinson Institute of Government on the Data Analysis and Visualization team. At work I utilize Business Intelligene platforms such as PowerBI. This week I will be starting an Internship at CDC with the Division of Workforce Development.
+
+## Interests
+
+In my free time I love to play board games and card games. My family is obsessed with Catan and other similar games.
+
+## Interesting Website
+
+The [Pudding](https://pudding.cool/) is a digital publication that uses creative data visualization to tell compelling stories about pop-culture, society, and human behavior.
+
+One standout project, [Teens Into Adults](https://pudding.cool/2024/03/teenagers/) follows a fictional composite teenager named Alex and 400 others from the 1997 National Longitudinal Survey of Youth. Through interactive visuals, it illustrates how adverse childhood experiences-like uninvolved parents or exposure to violence-shape long-term outcomes in education, income, health, and happiness. The visualizations highlight systemic disparities, showing how childhood trauma disproportionately affects marginalized groups and emphasizing the role of societal structures in shaping life trajectories.

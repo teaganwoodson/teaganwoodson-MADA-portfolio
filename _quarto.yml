@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "YOURNAME Data Analysis Portfolio"
+  title: "Teagan Woodson Data Analysis Portfolio"
   navbar:
     left:
       - text: "About Me"
@@ -16,10 +16,10 @@ website:
             file: coding-exercise/coding-exercise.qmd
     right:
       - icon: github 
-        href: URL-TO-THIS-REPOSITORY-HERE        
+        href: https://github.com/teaganwoodson/teaganwoodson-MADA-portfolio       
 format:
   html:
-    theme: cosmo
+    theme: minty
     highlight: zenburn
     css: styles.css
     toc: FALSE
